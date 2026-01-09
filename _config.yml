@@ -7,7 +7,7 @@ url: ""
 author:
   name: Team-Dominus
   email: teamdominus0601@gmail.com
-photo: assets/files/Logow.BG.png
+photo: /assets/files/Logow.BG.png
 joblines:
   - Your Job Title
   - Your Organization
