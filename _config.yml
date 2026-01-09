@@ -1,0 +1,56 @@
+title: ""
+description: ""
+baseurl: ""
+url: ""
+
+# author settings
+author:
+  name: Team-Dominus
+  email: teamdominus0601@gmail.com
+photo: assets/files/Logow.BG.png
+joblines:
+  - Your Job Title
+  - Your Organization
+  - Your Location
+address: Your Address
+phone: Your Phone
+
+# profile links (원하는 아이콘만 추가)
+profile:
+  facebook: https://www.facebook.com/username
+  x: https://x.com/username
+  instagram: https://www.instagram.com/username
+  linkedin: https://www.linkedin.com/in/username
+  github: https://github.com/username
+  cv: true
+
+exclude:
+  - demo/
+  - cvless.gemspec
+  - LICENSE
+  - README.md
+  - screenshot.png
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
