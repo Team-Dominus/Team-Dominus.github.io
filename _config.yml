@@ -1,7 +1,7 @@
 title: Team-Dominus
 description: Team-Dominus's website
 baseurl: ""
-url: https://Team-Dominus.github.io/Team-Dominus/
+url: https://Team-Dominus.github.io/
 
 theme: cvless
 
@@ -14,7 +14,7 @@ cv: true
 author:
   name: Team-Dominus
   email: teamdominus0601@gmail.com
-photo: assets/files/Logow.BG.png
+photo: assets/files/Logo.png
 joblines:
   - University of Jekyll
   - Department of Themes
@@ -24,15 +24,8 @@ phone: +1 234 567 890
 
 # profile links
 profile:
-  facebook: https://www.facebook.com/username
   x: https://x.com/username
-  mastodon: https://mastodon.social/@username
-  bluesky: https://bsky.app/profile/username.bsky.social
   instagram: https://www.instagram.com/dominus0601/
-  linkedin: https://www.linkedin.com/in/username
-  xing: https://www.xing.com/profile/username
-  stackoverflow: https://stackoverflow.com/users/0000000/username
-  medium: https://medium.com/@username
   github: https://github.com/Team-Dominus
 
 # build settings
