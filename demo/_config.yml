@@ -8,6 +8,7 @@ theme: cvless
 # site settings
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
+cv: true
 
 # author settings
 author:
@@ -33,7 +34,6 @@ profile:
   stackoverflow: https://stackoverflow.com/users/0000000/username
   medium: https://medium.com/@username
   github: https://github.com/username
-  cv: true
 
 # build settings
 permalink: pretty
