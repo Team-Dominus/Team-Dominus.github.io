@@ -3,7 +3,7 @@ description: Team-Dominus's website
 baseurl: ""
 url: https://Team-Dominus.github.io/
 
-theme: cvless
+#theme: cvless
 
 # site settings
 taglong: 
