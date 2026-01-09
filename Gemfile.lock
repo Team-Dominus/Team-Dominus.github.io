@@ -1,10 +1,3 @@
-PATH
-  remote: .
-  specs:
-    cvless (2.7.2)
-      github-pages (~> 232)
-      jekyll-paginate-v2 (~> 3.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -34,6 +27,9 @@ GEM
     concurrent-ruby (1.3.6)
     connection_pool (2.5.5)
     csv (3.3.5)
+    cvless (2.7.2)
+      github-pages (~> 232)
+      jekyll-paginate-v2 (~> 3.0)
     dnsruby (1.73.1)
       base64 (>= 0.2)
       logger (~> 1.6)
@@ -283,9 +279,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  cvless!
-  github-pages (~> 232)
-  jekyll-paginate-v2 (~> 3.0)
+  cvless
 
 BUNDLED WITH
    2.5.23

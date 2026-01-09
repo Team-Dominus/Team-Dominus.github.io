@@ -3,18 +3,18 @@ description: Team-Dominus's website
 baseurl: ""
 url: https://Team-Dominus.github.io/
 
-#theme: cvless
+theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-cv: true
+taglong: 
+tagshort: 
+cv: false
 
 # author settings
 author:
   name: Team-Dominus
   email: teamdominus0601@gmail.com
-photo: assets/files/Logo.png
+photo: /assets/files/Logo.png
 joblines:
   - University of Jekyll
   - Department of Themes
@@ -24,9 +24,11 @@ phone: +1 234 567 890
 
 # profile links
 profile:
-  x: https://x.com/username
+  x: https://x.com/TDominus97310
   instagram: https://www.instagram.com/dominus0601/
   github: https://github.com/Team-Dominus
+  youtube: https://www.youtube.com/@Team-Dominus
+  cv: false
 
 # build settings
 permalink: pretty
